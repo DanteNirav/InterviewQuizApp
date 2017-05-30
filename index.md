@@ -1,8 +1,8 @@
 ## Welcome to AptQ - Aptitude, Interview, Quiz Open source Project
 
-### Markdown
+### AptQ
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AptQ is an open source .NET based application that will allow you to setup an interview/quiz based application for your personal use or organisation use. 
 
 ```markdown
 Syntax highlighted code block
